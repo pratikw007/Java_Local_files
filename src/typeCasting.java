@@ -12,15 +12,15 @@ public class typeCasting {
         System.out.println(num);
 
         //automatic type promotion in Expressitions
-//        int a = 257;
-//        byte b = (byte) (a);//257 % 256 = 1
-//
-//        byte a = 40;
-//        byte b = 50;
-//        byte c =100;
-//        int d = (a + b) / c;
-//
-//        System.out.println(d);
+        int a = 257;
+        byte b = (byte) (a);//257 % 256 = 1
+
+        byte a = 40;
+        byte b = 50;
+        byte c =100;
+        int d = (a + b) / c;
+
+        System.out.println(d);
 
 //        byte b = 50;
 //        b = b * 2;
